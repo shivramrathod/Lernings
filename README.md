@@ -4,7 +4,4 @@ This is my  Frist repository.
 Ather - shivramR
 <br>
 hi
-<br>
-hi ye frist  link he ye 
-<br>
-Hi reset the code from the today
+
